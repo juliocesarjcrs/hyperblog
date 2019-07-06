@@ -1,5 +1,11 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: violet;
+    color: rgb(80, 77, 77);
+}
+.container {
+    width: 70%;
+    padding: 1em;
+    border: 1px solid rgb(56, 47, 47);
+    margin: 0 auto;
 }
